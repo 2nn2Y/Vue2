@@ -1,4 +1,4 @@
-# vue2-tempalte
+# vue2框架
 
 此项目是 vue + element-ui@2.+ 构建的后台管理系统
 使用了更为严格的es-lint，同样忽略了一部分规则
@@ -29,8 +29,8 @@ npm run build
 # 6.带分析报告的发布
 npm run build --report
 
-访问: http://localhost:8080 （端口在文件 config/index.js 中 dev 段 port)
-示例：http://localhost:8080/#/demo
+访问: http://localhost:8084 （端口在文件 config/index.js 中 dev 段 port)
+示例：http://localhost:8084/#/demo
 
 ```
 
